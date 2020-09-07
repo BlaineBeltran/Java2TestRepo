@@ -1,2 +1,3 @@
-# Java2TestRepo
+# This repo is named Java2TestRepo
 The repo is to work through project 01
+## I have now created a new H2 heading 
